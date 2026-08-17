@@ -25,6 +25,7 @@ Extract only from sources approved in `qa/SOURCE_VERIFICATION_REPORT.md`.
 - Inventory direct Joey Yap Qi Men media sources completed
 - Source verification pass completed
 - Atomic extraction batch 001 completed for WEB-001 through WEB-006
+- Atomic extraction batch 002 completed for WEB-008 through WEB-018
 
 ## In Progress
 
@@ -32,7 +33,7 @@ Extract only from sources approved in `qa/SOURCE_VERIFICATION_REPORT.md`.
 
 ## Pending
 
-1. Continue atomic claim extraction from remaining verified accessible web sources
+1. Continue atomic claim extraction from verified accessible media sources
 2. Normalize extracted claims
 3. Deduplicate / cross-source reconciliation
 4. QA extracted claims
@@ -54,10 +55,11 @@ Extract only from sources approved in `qa/SOURCE_VERIFICATION_REPORT.md`.
 - Third-party uploads and channels, including TheFengShuiChannel and other non-Joey Yap uploaders, were treated only as discovery evidence unless official provenance could be independently confirmed.
 - Official Telegram/Facebook references may point to time-limited or removed replays; item-level official recording URLs remain unresolved unless listed in SOURCE_INDEX.md.
 - Extraction batch 001 created 74 atomic claims from WEB-001 through WEB-006 only; see `qa/EXTRACTION_BATCH_001_REPORT.md` for skipped claims, ambiguities, and citation limits.
+- Extraction batch 002 created 29 atomic claims from WEB-008, WEB-016, and WEB-018; WEB-009 through WEB-015 and WEB-017 produced zero-claim files under the knowledge-bearing source-scope rule.
 
 ## Next Task
 
-Continue atomic claim extraction from remaining verified accessible web sources.
+Continue atomic claim extraction from verified accessible media sources.
 
 ## Completed Source Inventory Criteria
 
