@@ -6,7 +6,7 @@ SOURCE INVENTORY
 
 ## Current Task
 
-Build the initial inventory of Joey Yap / Mastery Academy Qi Men Dun Jia sources.
+Inventory Joey Yap Qi Men books.
 
 Do not extract Qi Men knowledge yet.
 
@@ -14,21 +14,24 @@ Do not extract Qi Men knowledge yet.
 
 - Repository created
 - AGENTS.md created
+- RESEARCH_RULES.md created
+- SOURCE_INDEX.md created
+- SOURCE_QUEUE.md created
+- KNOWLEDGE_SCHEMA.md created
+- Research infrastructure setup completed
 
 ## In Progress
 
-- Research infrastructure setup
+- Source inventory
 
 ## Pending
 
-1. Create source index
-2. Create source queue
-3. Inventory Joey Yap Qi Men books
-4. Inventory official courses and training materials
-5. Inventory official websites
-6. Inventory Joey Yap videos / webinars / interviews
-7. Verify discovered sources
-8. Begin atomic claim extraction
+1. Inventory Joey Yap Qi Men books
+2. Inventory official courses and training materials
+3. Inventory official websites
+4. Inventory Joey Yap videos / webinars / interviews
+5. Verify discovered sources
+6. Begin atomic claim extraction
 
 ## QA Issues
 
@@ -36,7 +39,7 @@ None yet.
 
 ## Next Task
 
-Complete research infrastructure before starting web research.
+Inventory Joey Yap Qi Men books.
 
 ## Phase Exit Criteria
 
