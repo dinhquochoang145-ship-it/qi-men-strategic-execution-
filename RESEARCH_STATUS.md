@@ -2,11 +2,11 @@
 
 ## Current Phase
 
-NORMALIZATION PREPARATION
+NORMALIZATION
 
 ## Current Task
 
-Await plan approval before beginning normalization batch 001.
+Prepare normalization batch 002.
 
 Atomic claim extraction is complete for the currently verified and accessible corpus. Blocked, unresolved, metadata-only, discovery-only, and duplicate/mirror sources remain outside the current extracted corpus and may be added later only if official source content or authorized access is acquired and verified.
 
@@ -35,15 +35,16 @@ Atomic claim extraction is complete for the currently verified and accessible co
 - Webinar extraction batch 002 completed for WEBINAR-006 through WEBINAR-009
 - Extraction completeness audit completed
 - Normalization plan completed
+- Normalization batch 001 completed for foundations, forecasting boundaries, decision-making boundaries, and question-framing principles
 
 ## In Progress
 
-- Normalization preparation
+- Normalization
 
 ## Pending
 
-1. Begin normalization batch 001 only after plan approval
-2. Normalize extracted claims
+1. Normalization batch 002
+2. Continue normalizing extracted claims
 3. Deduplicate / cross-source reconciliation
 4. QA extracted claims
 5. Project-rule derivation
@@ -74,10 +75,11 @@ Atomic claim extraction is complete for the currently verified and accessible co
 - Webinar extraction batch 002 created zero atomic claims from WEBINAR-006 through WEBINAR-009; WEBINAR-006 lacked official timestamped captions/transcript, WEBINAR-007 did not confirm Joey Yap direct Qi Men teaching from reviewed timestamped content, and WEBINAR-008/WEBINAR-009 remained event-page-only without public official recording/transcript access; see `qa/WEBINAR_EXTRACTION_BATCH_002_REPORT.md`.
 - Extraction completeness audit reviewed all 94 indexed sources exactly once and found no skipped eligible accessible source. The currently extracted corpus contains 337 atomic claims. Blocked, unresolved, metadata-only, discovery-only, and duplicate/mirror sources remain outside the current extracted corpus and may be added later only if acquired or resolved.
 - Normalization plan created for the 337 extracted atomic claims. The plan preserves source traceability, prohibits project-rule derivation during normalization, and requires explicit plan approval before normalization batch 001 begins.
+- Normalization batch 001 created 18 normalized SOURCE FACT units across foundations, forecasting boundaries, decision-making boundaries, and question-framing principles. QA passed in `qa/NORMALIZATION_BATCH_001_REVIEW.md`; no extracted claim files were modified.
 
 ## Next Task
 
-Begin normalization batch 001 only after plan approval.
+Normalization batch 002.
 
 ## Completed Source Inventory Criteria
 
