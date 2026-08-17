@@ -6,7 +6,7 @@ NORMALIZATION PREPARATION
 
 ## Current Task
 
-Prepare for normalization of extracted atomic claims.
+Await plan approval before beginning normalization batch 001.
 
 Atomic claim extraction is complete for the currently verified and accessible corpus. Blocked, unresolved, metadata-only, discovery-only, and duplicate/mirror sources remain outside the current extracted corpus and may be added later only if official source content or authorized access is acquired and verified.
 
@@ -34,6 +34,7 @@ Atomic claim extraction is complete for the currently verified and accessible co
 - Webinar extraction batch 001 completed for WEBINAR-001 through WEBINAR-005
 - Webinar extraction batch 002 completed for WEBINAR-006 through WEBINAR-009
 - Extraction completeness audit completed
+- Normalization plan completed
 
 ## In Progress
 
@@ -41,7 +42,7 @@ Atomic claim extraction is complete for the currently verified and accessible co
 
 ## Pending
 
-1. Prepare normalization plan for extracted atomic claims
+1. Begin normalization batch 001 only after plan approval
 2. Normalize extracted claims
 3. Deduplicate / cross-source reconciliation
 4. QA extracted claims
@@ -72,10 +73,11 @@ Atomic claim extraction is complete for the currently verified and accessible co
 - Webinar extraction batch 001 created 26 atomic claims from WEBINAR-001 and WEBINAR-002 using only official Joey Yap YouTube webinar/livestream recordings with timestamped English (Original) automatic captions; WEBINAR-003 through WEBINAR-005 produced zero claims because reviewed timestamped content was not Joey Yap direct teaching; see `qa/WEBINAR_EXTRACTION_BATCH_001_REPORT.md` for duplicate candidates, blockers, rejected promotional statements, and caption ambiguities.
 - Webinar extraction batch 002 created zero atomic claims from WEBINAR-006 through WEBINAR-009; WEBINAR-006 lacked official timestamped captions/transcript, WEBINAR-007 did not confirm Joey Yap direct Qi Men teaching from reviewed timestamped content, and WEBINAR-008/WEBINAR-009 remained event-page-only without public official recording/transcript access; see `qa/WEBINAR_EXTRACTION_BATCH_002_REPORT.md`.
 - Extraction completeness audit reviewed all 94 indexed sources exactly once and found no skipped eligible accessible source. The currently extracted corpus contains 337 atomic claims. Blocked, unresolved, metadata-only, discovery-only, and duplicate/mirror sources remain outside the current extracted corpus and may be added later only if acquired or resolved.
+- Normalization plan created for the 337 extracted atomic claims. The plan preserves source traceability, prohibits project-rule derivation during normalization, and requires explicit plan approval before normalization batch 001 begins.
 
 ## Next Task
 
-Prepare normalization plan for extracted atomic claims.
+Begin normalization batch 001 only after plan approval.
 
 ## Completed Source Inventory Criteria
 
