@@ -6,7 +6,7 @@ SOURCE INVENTORY
 
 ## Current Task
 
-Inventory official courses and training materials.
+Inventory official websites.
 
 Do not extract Qi Men knowledge yet.
 
@@ -20,6 +20,7 @@ Do not extract Qi Men knowledge yet.
 - KNOWLEDGE_SCHEMA.md created
 - Research infrastructure setup completed
 - Inventory Joey Yap Qi Men books completed
+- Inventory official courses and training materials completed
 
 ## In Progress
 
@@ -27,19 +28,22 @@ Do not extract Qi Men knowledge yet.
 
 ## Pending
 
-1. Inventory official courses and training materials
-2. Inventory official websites
-3. Inventory Joey Yap videos / webinars / interviews
-4. Verify discovered sources
-5. Begin atomic claim extraction
+1. Inventory official websites
+2. Inventory Joey Yap videos / webinars / interviews
+3. Verify discovered sources
+4. Begin atomic claim extraction
 
 ## QA Issues
 
 - BOOK-023 requires verification: official Joey Yap descriptions reference `Qi Men Dun Jia Ten Thousand Year Calendar`, but no standalone official listing was confirmed during book inventory.
+- COURSE-012 requires edition separation before extraction because accessible official pages include Joey Yap-led historical classes and a later related official page listing Joe Boey as speaker.
+- COURSE-013 through COURSE-016 are verified from official Mastery Academy index metadata, but detail pages or workbook/manual access were not resolved during inventory.
+- COURSE-017 is a locked JY Academy course-material page; course container, instructor, and content access remain unresolved.
+- COURSE-018 is referenced from an official offer page, but no standalone official page was confirmed.
 
 ## Next Task
 
-Inventory official courses and training materials.
+Inventory official websites.
 
 ## Phase Exit Criteria
 
