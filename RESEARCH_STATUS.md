@@ -6,7 +6,7 @@ SOURCE INVENTORY
 
 ## Current Task
 
-Inventory official websites.
+Inventory Joey Yap videos / webinars / interviews.
 
 Do not extract Qi Men knowledge yet.
 
@@ -21,6 +21,7 @@ Do not extract Qi Men knowledge yet.
 - Research infrastructure setup completed
 - Inventory Joey Yap Qi Men books completed
 - Inventory official courses and training materials completed
+- Inventory official websites completed
 
 ## In Progress
 
@@ -28,10 +29,9 @@ Do not extract Qi Men knowledge yet.
 
 ## Pending
 
-1. Inventory official websites
-2. Inventory Joey Yap videos / webinars / interviews
-3. Verify discovered sources
-4. Begin atomic claim extraction
+1. Inventory Joey Yap videos / webinars / interviews
+2. Verify discovered sources
+3. Begin atomic claim extraction
 
 ## QA Issues
 
@@ -40,10 +40,13 @@ Do not extract Qi Men knowledge yet.
 - COURSE-013 through COURSE-016 are verified from official Mastery Academy index metadata, but detail pages or workbook/manual access were not resolved during inventory.
 - COURSE-017 is a locked JY Academy course-material page; course container, instructor, and content access remain unresolved.
 - COURSE-018 is referenced from an official offer page, but no standalone official page was confirmed.
+- WEB-001 has a JoeyYap.com mirror and Mastery Academy original; avoid duplicate extraction.
+- WEB-010 has partial product/terms access only; locked software content remains inaccessible.
+- WEB-011 and WEB-012 reference downloadable or embedded resources, but those materials were not opened or extracted during web-source inventory.
 
 ## Next Task
 
-Inventory official websites.
+Inventory Joey Yap videos / webinars / interviews.
 
 ## Phase Exit Criteria
 

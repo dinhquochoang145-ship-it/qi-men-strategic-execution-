@@ -99,6 +99,24 @@ Never use P3 as final evidence for Qi Men knowledge.
 | P1 | COURSE-016 | An Insightful Look at the Art of Qi Men | Archived official Qi Men workshop. | VERIFIED | Resolve detail pages or locate official workbook/manual before extraction. |
 | P2 | COURSE-017 | QiMen ONTHEGO Cheat Sheets | Official locked JY Academy course material with limited metadata. | BLOCKED | Requires enrolled account or official downloadable material before extraction. |
 | P2 | COURSE-018 | QiMenpedia Volume 1 | Officially referenced QiMen reference library, but no standalone page found. | TO VERIFY | Find standalone official page or acquired material before extraction. |
+| P2 | WEB-001 | The Other Art of War | Official Joey Yap / Mastery Academy tutorial article family. | VERIFIED | Extract only after article-level citation review; avoid duplicate extraction from mirror URL. |
+| P1 | WEB-002 | The Hidden Clock: Why Timing Beats Talent in Business | Official Joey Yap article with business-timing context. | VERIFIED | Extract only after source-fact review and citation capture. |
+| P2 | WEB-003 | How To Ask Qi Men Dun Jia Your Question | Official Team Joey Yap article. | VERIFIED | Extract only after source-fact review and citation capture. |
+| P2 | WEB-004 | Why QiMen Is The Art Of Conscious Decision Making? | Official Team Joey Yap article. | VERIFIED | Extract only after source-fact review and citation capture. |
+| P2 | WEB-005 | The Power Of Asking The Right Question When Reading Your QiMen Chart | Official Team Joey Yap article. | VERIFIED | Extract only after source-fact review and citation capture. |
+| P2 | WEB-006 | Tired of Overthinking? Re Your QiMen Chart To Make Decisions And Choices | Official Team Joey Yap article. | VERIFIED | Extract only after source-fact review and citation capture; preserve source-title typo. |
+| P3 | WEB-007 | Qi Men Archives | Official tag archive useful for source discovery only. | VERIFIED | Use to discover additional official pages; do not extract archive snippets as claims. |
+| P2 | WEB-008 | Joey Yap's Qi Men Dun Jia Tools - About | Official QMDJ software information page. | VERIFIED | Extract only after deciding whether software marketing/support content is acceptable as source fact. |
+| P2 | WEB-009 | Joey Yap's Qi Men Dun Jia Tools - Getting Started | Official QMDJ software support page. | VERIFIED | Extract only software-access/provenance facts if needed; avoid dynamic chart content. |
+| P2 | WEB-010 | Joey Yap's Qi Men Dun Jia Tools - QiMen Feng Shui Product / Terms Page | Official QMDJ product/terms page with partial content access. | VERIFIED | Use for software/provenance verification; do not extract locked software content. |
+| P2 | WEB-011 | Joey Yap's QiMen Manifesting - Additional Resources | Official resource page listing downloadable materials. | VERIFIED | Download/review only if later task explicitly targets official course-resource extraction. |
+| P2 | WEB-012 | Joey Yap's QiMen Manifesting Framework - Additional Resources | Official resource page listing downloadable/embedded materials. | VERIFIED | Download/review only if later task explicitly targets official course-resource extraction. |
+| P2 | WEB-013 | Joey Yap Consulting - Consultation Overview | Official consultation service page. | VERIFIED | Extract only service/provenance facts if needed. |
+| P2 | WEB-014 | Joey Yap Consulting - Business Advisory | Official business advisory service page. | VERIFIED | Extract only service/provenance facts if needed. |
+| P2 | WEB-015 | Seize the Moment! | Official homepage/service overview. | VERIFIED | Extract only service/provenance facts if needed. |
+| P1 | WEB-016 | Empowering Your Business with Qi Men Dun Jia | Official JoeyYap.com media article attributed to Dato Joey Yap. | VERIFIED | Extract only after source-fact review and citation capture. |
+| P2 | WEB-017 | Go Forth & Conquer With The Sage Art of War Live Seminar | Official media article related to COURSE-014/BOOK-001. | VERIFIED | Use to cross-reference COURSE-014/BOOK-001 before extraction. |
+| P2 | WEB-018 | Learning the Art of Qi Men with Dato' Joey Yap | Official news/activity page related to COURSE-011. | VERIFIED | Use to cross-reference COURSE-011 before extraction. |
 
 ## Status Values
 
