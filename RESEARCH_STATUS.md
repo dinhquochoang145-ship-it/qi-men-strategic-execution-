@@ -32,6 +32,7 @@ Extract only from sources approved in `qa/SOURCE_VERIFICATION_REPORT.md`.
 - Media extraction batch 004 completed for VIDEO-016 through VIDEO-020
 - Media extraction batch 005 completed for VIDEO-021 through VIDEO-025
 - Webinar extraction batch 001 completed for WEBINAR-001 through WEBINAR-005
+- Webinar extraction batch 002 completed for WEBINAR-006 through WEBINAR-009
 
 ## In Progress
 
@@ -68,6 +69,7 @@ Extract only from sources approved in `qa/SOURCE_VERIFICATION_REPORT.md`.
 - Media extraction batch 004 created 29 atomic claims from VIDEO-016 through VIDEO-020 using only official Joey Yap YouTube videos with timestamped English (Original) automatic captions where available; VIDEO-017 produced zero claims because no subtitles/automatic captions were available; see `qa/MEDIA_EXTRACTION_BATCH_004_REPORT.md` for duplicate candidates, case-specific claims, rejected promotional statements, and caption ambiguities.
 - Media extraction batch 005 created 36 atomic claims from VIDEO-021 through VIDEO-025 using only official Joey Yap YouTube videos with timestamped English (Original) automatic captions; VIDEO-021 produced zero claims because the recording was promotional/introductory rather than knowledge-bearing; VIDEO-025 Qi Men relevance was confirmed from timestamped spoken content; see `qa/MEDIA_EXTRACTION_BATCH_005_REPORT.md` for duplicate candidates, case-specific claims, rejected promotional statements, and caption ambiguities.
 - Webinar extraction batch 001 created 26 atomic claims from WEBINAR-001 and WEBINAR-002 using only official Joey Yap YouTube webinar/livestream recordings with timestamped English (Original) automatic captions; WEBINAR-003 through WEBINAR-005 produced zero claims because reviewed timestamped content was not Joey Yap direct teaching; see `qa/WEBINAR_EXTRACTION_BATCH_001_REPORT.md` for duplicate candidates, blockers, rejected promotional statements, and caption ambiguities.
+- Webinar extraction batch 002 created zero atomic claims from WEBINAR-006 through WEBINAR-009; WEBINAR-006 lacked official timestamped captions/transcript, WEBINAR-007 did not confirm Joey Yap direct Qi Men teaching from reviewed timestamped content, and WEBINAR-008/WEBINAR-009 remained event-page-only without public official recording/transcript access; see `qa/WEBINAR_EXTRACTION_BATCH_002_REPORT.md`.
 
 ## Next Task
 
