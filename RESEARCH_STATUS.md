@@ -2,13 +2,13 @@
 
 ## Current Phase
 
-SOURCE VERIFICATION
+ATOMIC CLAIM EXTRACTION
 
 ## Current Task
 
-Verify discovered sources.
+Begin atomic claim extraction from verified accessible sources.
 
-Do not extract Qi Men knowledge yet.
+Extract only from sources approved in `qa/SOURCE_VERIFICATION_REPORT.md`.
 
 ## Completed
 
@@ -23,35 +23,39 @@ Do not extract Qi Men knowledge yet.
 - Inventory official courses and training materials completed
 - Inventory official websites completed
 - Inventory direct Joey Yap Qi Men media sources completed
+- Source verification pass completed
 
 ## In Progress
 
-- Source verification
+- Atomic claim extraction
 
 ## Pending
 
-1. Verify discovered sources
-2. Begin atomic claim extraction
+1. Begin atomic claim extraction from verified accessible sources
+2. Normalize extracted claims
+3. Deduplicate / cross-source reconciliation
+4. QA extracted claims
+5. Project-rule derivation
 
 ## QA Issues
 
-- BOOK-023 requires verification: official Joey Yap descriptions reference `Qi Men Dun Jia Ten Thousand Year Calendar`, but no standalone official listing was confirmed during book inventory.
-- COURSE-012 requires edition separation before extraction because accessible official pages include Joey Yap-led historical classes and a later related official page listing Joe Boey as speaker.
+- BOOK-023 remains unresolved: official Joey Yap descriptions indirectly reference `Qi Men Dun Jia Ten Thousand Year Calendar`, but no standalone official listing or source access was confirmed during verification.
+- COURSE-012 verification separated Joey Yap-led Mastery Academy 2013/2014 pages from the later 2025 Joe Boey edition; the 2025 edition is prohibited from extraction under COURSE-012.
 - COURSE-013 through COURSE-016 are verified from official Mastery Academy index metadata, but detail pages or workbook/manual access were not resolved during inventory.
 - COURSE-017 is a locked JY Academy course-material page; course container, instructor, and content access remain unresolved.
-- COURSE-018 is referenced from an official offer page, but no standalone official page was confirmed.
+- COURSE-018 is referenced from an official offer page, but no standalone official page, accessible material, or author/speaker confirmation for the source itself was confirmed.
 - WEB-001 has a JoeyYap.com mirror and Mastery Academy original; avoid duplicate extraction.
 - WEB-010 has partial product/terms access only; locked software content remains inaccessible.
 - WEB-011 and WEB-012 reference downloadable or embedded resources, but those materials were not opened or extracted during web-source inventory.
-- WEBINAR-007 and VIDEO-025 are official Joey Yap channel sources surfaced by QiMen searches, but their titles do not independently identify QiMen; verify recording context before extraction.
+- WEBINAR-007 and VIDEO-025 are provenance/QiMen-relevance verified from official YouTube metadata, but their titles remain non-specific; timestamp-level review is required before extraction.
 - WEBINAR-008 and WEBINAR-009 are official event pages with no public recording URL confirmed during media inventory.
-- PODCAST-001 contains podcast mirrors or parallel audio for some official YouTube recordings; avoid duplicate extraction between podcast episodes and canonical video recordings.
+- PODCAST-001 is an official discovery/index feed that may contain podcast mirrors or parallel audio for some official YouTube recordings; extract only from canonical item-level records.
 - Third-party uploads and channels, including TheFengShuiChannel and other non-Joey Yap uploaders, were treated only as discovery evidence unless official provenance could be independently confirmed.
 - Official Telegram/Facebook references may point to time-limited or removed replays; item-level official recording URLs remain unresolved unless listed in SOURCE_INDEX.md.
 
 ## Next Task
 
-Verify discovered sources.
+Begin atomic claim extraction from verified accessible sources.
 
 ## Completed Source Inventory Criteria
 

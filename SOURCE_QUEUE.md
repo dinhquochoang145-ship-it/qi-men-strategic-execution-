@@ -80,7 +80,7 @@ Never use P3 as final evidence for Qi Men knowledge.
 | P0 | BOOK-020 | Qi Men Dun Jia The Deities | Core component reference source. | VERIFIED | Acquire full book or official preview/sample before atomic extraction. |
 | P0 | BOOK-021 | Qi Men Dun Jia The Stems | Core component reference source. | VERIFIED | Acquire full book or official preview/sample before atomic extraction. |
 | P0 | BOOK-022 | Qi Men Dun Jia 28 Constellations | Primary Joey Yap Qi Men Dun Jia reference source in current official store. | VERIFIED | Acquire full book or official preview/sample before atomic extraction. |
-| P0 | BOOK-023 | Qi Men Dun Jia Ten Thousand Year Calendar | Potential core companion title referenced by official Joey Yap descriptions; standalone official listing not verified. | TO VERIFY | Find official standalone listing or mark blocked before any extraction. |
+| P0 | BOOK-023 | Qi Men Dun Jia Ten Thousand Year Calendar | Potential core companion title referenced indirectly by official Joey Yap descriptions; standalone official listing not verified. | BLOCKED | Do not extract; locate a standalone official listing or acquired source copy before reopening. |
 | P0 | COURSE-001 | QiMen Academy | Core official Qi Men Dun Jia academy program. | VERIFIED | Acquire enrolled course access, official preview, workbook, or transcript before atomic extraction. |
 | P1 | COURSE-002 | QiMen Manifesting Academy | Official application-focused QiMen academy program. | VERIFIED | Acquire enrolled course access, official preview, workbook, or transcript before atomic extraction. |
 | P1 | COURSE-003 | QiMen Academy: Intuitive Intelligence Bootcamp | Official QiMen livestream training bundled with QiMen Academy. | VERIFIED | Locate replay, official workbook, or transcript access before atomic extraction. |
@@ -92,20 +92,20 @@ Never use P3 as final evidence for Qi Men knowledge.
 | P1 | COURSE-009 | QiMen Club 2026 | Official high-level membership training program. | VERIFIED | Acquire member materials, official previews, or transcripts before atomic extraction. |
 | P1 | COURSE-010 | QiMen Club 2025 | Official archived membership training program. | VERIFIED | Acquire member materials, official previews, or transcripts before atomic extraction. |
 | P0 | COURSE-011 | Qi Men Dun Jia Mastery Course | Archived core live course from Mastery Academy. | VERIFIED | Locate official workbook/manual or authorized course materials before extraction. |
-| P1 | COURSE-012 | Getting Whatever You Want From Whatever You've Got | Archived official Qi Men class with later related official edition; speaker/provenance differs by edition. | TO VERIFY | Separate Joey Yap-led editions from non-Joey editions before extraction; locate official materials. |
+| P1 | COURSE-012 | Getting Whatever You Want From Whatever You've Got | Archived official Joey Yap-led Mastery Academy Qi Men class; later Joe Boey edition separated during verification. | VERIFIED | Use only Joey Yap-led Mastery Academy 2013/2014 provenance; acquire official materials before teaching extraction; exclude the 2025 Joe Boey edition. |
 | P1 | COURSE-013 | Qi Men Dun Jia Mastery with Feng Shui and Strategic Execution | Archived official Qi Men class aligned with project application domains. | VERIFIED | Resolve detail pages or locate official workbook/manual before extraction. |
 | P1 | COURSE-014 | Qi Men Sun Tzu - The Art of War Seminar | Archived official strategy-focused Qi Men seminar. | VERIFIED | Resolve detail pages or locate official workbook/manual before extraction. |
 | P1 | COURSE-015 | Qi Men - The Power of Anticipation | Archived official forecasting-focused Qi Men seminar. | VERIFIED | Resolve detail pages or locate official workbook/manual before extraction. |
 | P1 | COURSE-016 | An Insightful Look at the Art of Qi Men | Archived official Qi Men workshop. | VERIFIED | Resolve detail pages or locate official workbook/manual before extraction. |
 | P2 | COURSE-017 | QiMen ONTHEGO Cheat Sheets | Official locked JY Academy course material with limited metadata. | BLOCKED | Requires enrolled account or official downloadable material before extraction. |
-| P2 | COURSE-018 | QiMenpedia Volume 1 | Officially referenced QiMen reference library, but no standalone page found. | TO VERIFY | Find standalone official page or acquired material before extraction. |
+| P2 | COURSE-018 | QiMenpedia Volume 1 | Officially referenced QiMen reference library, but no standalone page or material access found. | BLOCKED | Do not extract until a standalone official page or acquired material confirms provenance and access. |
 | P2 | WEB-001 | The Other Art of War | Official Joey Yap / Mastery Academy tutorial article family. | VERIFIED | Extract only after article-level citation review; avoid duplicate extraction from mirror URL. |
 | P1 | WEB-002 | The Hidden Clock: Why Timing Beats Talent in Business | Official Joey Yap article with business-timing context. | VERIFIED | Extract only after source-fact review and citation capture. |
 | P2 | WEB-003 | How To Ask Qi Men Dun Jia Your Question | Official Team Joey Yap article. | VERIFIED | Extract only after source-fact review and citation capture. |
 | P2 | WEB-004 | Why QiMen Is The Art Of Conscious Decision Making? | Official Team Joey Yap article. | VERIFIED | Extract only after source-fact review and citation capture. |
 | P2 | WEB-005 | The Power Of Asking The Right Question When Reading Your QiMen Chart | Official Team Joey Yap article. | VERIFIED | Extract only after source-fact review and citation capture. |
 | P2 | WEB-006 | Tired of Overthinking? Re Your QiMen Chart To Make Decisions And Choices | Official Team Joey Yap article. | VERIFIED | Extract only after source-fact review and citation capture; preserve source-title typo. |
-| P3 | WEB-007 | Qi Men Archives | Official tag archive useful for source discovery only. | VERIFIED | Use to discover additional official pages; do not extract archive snippets as claims. |
+| P3 | WEB-007 | Qi Men Archives | Official tag archive useful for source discovery only; classified as secondary. | VERIFIED | Use to discover additional official pages; do not extract archive snippets as claims. |
 | P2 | WEB-008 | Joey Yap's Qi Men Dun Jia Tools - About | Official QMDJ software information page. | VERIFIED | Extract only after deciding whether software marketing/support content is acceptable as source fact. |
 | P2 | WEB-009 | Joey Yap's Qi Men Dun Jia Tools - Getting Started | Official QMDJ software support page. | VERIFIED | Extract only software-access/provenance facts if needed; avoid dynamic chart content. |
 | P2 | WEB-010 | Joey Yap's Qi Men Dun Jia Tools - QiMen Feng Shui Product / Terms Page | Official QMDJ product/terms page with partial content access. | VERIFIED | Use for software/provenance verification; do not extract locked software content. |
@@ -123,7 +123,7 @@ Never use P3 as final evidence for Qi Men knowledge.
 | P1 | WEBINAR-004 | QiMen Manifest Bonus FAQ Session - Part 1 | Official long-form QiMen Manifest FAQ recording. | VERIFIED | Extract only after transcript/caption capture and timestamp-level citation review. |
 | P1 | WEBINAR-005 | FAQ Bonus Session for QiMen Manifest - Part 2 | Official long-form QiMen Manifest FAQ recording. | VERIFIED | Extract only after transcript/caption capture and timestamp-level citation review. |
 | P2 | WEBINAR-006 | Experience China Through The Eyes of QiMen | Official long-form livestream recording with QiMen context. | VERIFIED | Verify extraction relevance before timestamp-level extraction. |
-| P2 | WEBINAR-007 | Special Breakout Session by Joey Yap's Once You See It FAQ Part 3 | Official Joey Yap livestream, but QiMen context is title-ambiguous. | TO VERIFY | Verify recording context before any extraction. |
+| P2 | WEBINAR-007 | Special Breakout Session by Joey Yap's Once You See It FAQ Part 3 | Official Joey Yap livestream with QiMen relevance verified from metadata; title remains non-specific. | VERIFIED | Extract only with timestamp-level review and context confirmation. |
 | P1 | WEBINAR-008 | Joey Yap's The QiMen Manifesting Framework | Official 4-day QiMen livestream event page. | VERIFIED | Locate recordings or official replay access before extraction. |
 | P1 | WEBINAR-009 | Joey Yap's Crimson Horse QiMen 2026 | Official live QiMen seminar event page. | VERIFIED | Locate official recording, transcript, workbook, or post-event materials before extraction. |
 | P2 | VIDEO-001 | What is Qi Men Dun Jia (QIMEN)? | Official Joey Yap introductory Qi Men video with podcast mirror. | VERIFIED | Extract from canonical YouTube recording only; do not duplicate Buzzsprout mirror. |
@@ -150,8 +150,8 @@ Never use P3 as final evidence for Qi Men knowledge.
 | P2 | VIDEO-022 | [Ask Joey Yap] Getting What You Want With What You Have. Here's How? | Official Joey Yap video related to COURSE-012 title family. | VERIFIED | Do not use to resolve COURSE-012 edition issue without content-level review. |
 | P2 | VIDEO-023 | There is Power In Manifesting Your Goals Through QiMen DunJia | Official short QiMen Manifesting video. | VERIFIED | Extract only after cross-reference with COURSE-002/COURSE-004. |
 | P1 | VIDEO-024 | How to Grow Your Business by 50% Using QiMen. | Official short business-application QiMen video. | VERIFIED | Extract only after timestamp-level citation review. |
-| P2 | VIDEO-025 | A Map To See The Unseen In Your Business | Official Joey Yap video surfaced by QiMen search, but title is ambiguous. | TO VERIFY | Verify QiMen-specific context before extraction. |
-| P2 | PODCAST-001 | Joey Yap's The Great Feng Shui, Great Life Channel - Qi Men-relevant podcast feed | Official Joey Yap podcast feed with Qi Men-relevant episodes and YouTube mirrors. | VERIFIED | Use as a discovery/index source; extract from canonical recordings and avoid duplicate episode/video claims. |
+| P2 | VIDEO-025 | A Map To See The Unseen In Your Business | Official Joey Yap video with QiMen relevance verified from metadata; title remains non-specific. | VERIFIED | Extract only with timestamp-level review and context confirmation. |
+| P3 | PODCAST-001 | Joey Yap's The Great Feng Shui, Great Life Channel - Qi Men-relevant podcast feed | Official Joey Yap podcast feed used as a discovery/index source with possible YouTube mirrors. | VERIFIED | Use as a discovery/index source; extract from canonical recordings and avoid duplicate episode/video claims. |
 
 ## Status Values
 
