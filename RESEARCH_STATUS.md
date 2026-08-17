@@ -2,11 +2,11 @@
 
 ## Current Phase
 
-SOURCE INVENTORY
+SOURCE VERIFICATION
 
 ## Current Task
 
-Inventory Joey Yap videos / webinars / interviews.
+Verify discovered sources.
 
 Do not extract Qi Men knowledge yet.
 
@@ -22,16 +22,16 @@ Do not extract Qi Men knowledge yet.
 - Inventory Joey Yap Qi Men books completed
 - Inventory official courses and training materials completed
 - Inventory official websites completed
+- Inventory direct Joey Yap Qi Men media sources completed
 
 ## In Progress
 
-- Source inventory
+- Source verification
 
 ## Pending
 
-1. Inventory Joey Yap videos / webinars / interviews
-2. Verify discovered sources
-3. Begin atomic claim extraction
+1. Verify discovered sources
+2. Begin atomic claim extraction
 
 ## QA Issues
 
@@ -43,14 +43,19 @@ Do not extract Qi Men knowledge yet.
 - WEB-001 has a JoeyYap.com mirror and Mastery Academy original; avoid duplicate extraction.
 - WEB-010 has partial product/terms access only; locked software content remains inaccessible.
 - WEB-011 and WEB-012 reference downloadable or embedded resources, but those materials were not opened or extracted during web-source inventory.
+- WEBINAR-007 and VIDEO-025 are official Joey Yap channel sources surfaced by QiMen searches, but their titles do not independently identify QiMen; verify recording context before extraction.
+- WEBINAR-008 and WEBINAR-009 are official event pages with no public recording URL confirmed during media inventory.
+- PODCAST-001 contains podcast mirrors or parallel audio for some official YouTube recordings; avoid duplicate extraction between podcast episodes and canonical video recordings.
+- Third-party uploads and channels, including TheFengShuiChannel and other non-Joey Yap uploaders, were treated only as discovery evidence unless official provenance could be independently confirmed.
+- Official Telegram/Facebook references may point to time-limited or removed replays; item-level official recording URLs remain unresolved unless listed in SOURCE_INDEX.md.
 
 ## Next Task
 
-Inventory Joey Yap videos / webinars / interviews.
+Verify discovered sources.
 
-## Phase Exit Criteria
+## Completed Source Inventory Criteria
 
-SOURCE INVENTORY is complete only when:
+SOURCE INVENTORY was considered complete for the currently discoverable scope when:
 
 - all major discoverable Joey Yap Qi Men books are listed
 - official courses/training materials have been searched
