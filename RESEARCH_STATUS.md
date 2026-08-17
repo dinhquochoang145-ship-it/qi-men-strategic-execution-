@@ -26,6 +26,7 @@ Extract only from sources approved in `qa/SOURCE_VERIFICATION_REPORT.md`.
 - Source verification pass completed
 - Atomic extraction batch 001 completed for WEB-001 through WEB-006
 - Atomic extraction batch 002 completed for WEB-008 through WEB-018
+- Media extraction batch 001 completed for VIDEO-001 through VIDEO-005
 
 ## In Progress
 
@@ -33,7 +34,7 @@ Extract only from sources approved in `qa/SOURCE_VERIFICATION_REPORT.md`.
 
 ## Pending
 
-1. Continue atomic claim extraction from verified accessible media sources
+1. Continue atomic claim extraction from remaining verified accessible media sources
 2. Normalize extracted claims
 3. Deduplicate / cross-source reconciliation
 4. QA extracted claims
@@ -56,10 +57,11 @@ Extract only from sources approved in `qa/SOURCE_VERIFICATION_REPORT.md`.
 - Official Telegram/Facebook references may point to time-limited or removed replays; item-level official recording URLs remain unresolved unless listed in SOURCE_INDEX.md.
 - Extraction batch 001 created 74 atomic claims from WEB-001 through WEB-006 only; see `qa/EXTRACTION_BATCH_001_REPORT.md` for skipped claims, ambiguities, and citation limits.
 - Extraction batch 002 created 29 atomic claims from WEB-008, WEB-016, and WEB-018; WEB-009 through WEB-015 and WEB-017 produced zero-claim files under the knowledge-bearing source-scope rule.
+- Media extraction batch 001 created 48 atomic claims from VIDEO-001 through VIDEO-005 using only official Joey Yap YouTube videos with timestamped English (Original) automatic captions; see `qa/MEDIA_EXTRACTION_BATCH_001_REPORT.md` for caption limitations and case-specific ambiguities.
 
 ## Next Task
 
-Continue atomic claim extraction from verified accessible media sources.
+Continue atomic claim extraction from remaining verified accessible media sources.
 
 ## Completed Source Inventory Criteria
 
