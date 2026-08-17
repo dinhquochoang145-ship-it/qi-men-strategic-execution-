@@ -29,6 +29,7 @@ Extract only from sources approved in `qa/SOURCE_VERIFICATION_REPORT.md`.
 - Media extraction batch 001 completed for VIDEO-001 through VIDEO-005
 - Media extraction batch 002 completed for VIDEO-006 through VIDEO-010
 - Media extraction batch 003 completed for VIDEO-011 through VIDEO-015
+- Media extraction batch 004 completed for VIDEO-016 through VIDEO-020
 
 ## In Progress
 
@@ -62,6 +63,7 @@ Extract only from sources approved in `qa/SOURCE_VERIFICATION_REPORT.md`.
 - Media extraction batch 001 created 48 atomic claims from VIDEO-001 through VIDEO-005 using only official Joey Yap YouTube videos with timestamped English (Original) automatic captions; see `qa/MEDIA_EXTRACTION_BATCH_001_REPORT.md` for caption limitations and case-specific ambiguities.
 - Media extraction batch 002 created 41 atomic claims from VIDEO-006 through VIDEO-010 using only official Joey Yap YouTube videos with timestamped English (Original) automatic captions; see `qa/MEDIA_EXTRACTION_BATCH_002_REPORT.md` for duplicate candidates, rejected promotional statements, and caption ambiguities.
 - Media extraction batch 003 created 54 atomic claims from VIDEO-011 through VIDEO-015 using only official Joey Yap YouTube videos with timestamped English (Original) automatic captions; see `qa/MEDIA_EXTRACTION_BATCH_003_REPORT.md` for duplicate candidates, case-specific claims, rejected promotional statements, and caption ambiguities.
+- Media extraction batch 004 created 29 atomic claims from VIDEO-016 through VIDEO-020 using only official Joey Yap YouTube videos with timestamped English (Original) automatic captions where available; VIDEO-017 produced zero claims because no subtitles/automatic captions were available; see `qa/MEDIA_EXTRACTION_BATCH_004_REPORT.md` for duplicate candidates, case-specific claims, rejected promotional statements, and caption ambiguities.
 
 ## Next Task
 
