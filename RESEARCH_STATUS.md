@@ -27,6 +27,7 @@ Extract only from sources approved in `qa/SOURCE_VERIFICATION_REPORT.md`.
 - Atomic extraction batch 001 completed for WEB-001 through WEB-006
 - Atomic extraction batch 002 completed for WEB-008 through WEB-018
 - Media extraction batch 001 completed for VIDEO-001 through VIDEO-005
+- Media extraction batch 002 completed for VIDEO-006 through VIDEO-010
 
 ## In Progress
 
@@ -58,6 +59,7 @@ Extract only from sources approved in `qa/SOURCE_VERIFICATION_REPORT.md`.
 - Extraction batch 001 created 74 atomic claims from WEB-001 through WEB-006 only; see `qa/EXTRACTION_BATCH_001_REPORT.md` for skipped claims, ambiguities, and citation limits.
 - Extraction batch 002 created 29 atomic claims from WEB-008, WEB-016, and WEB-018; WEB-009 through WEB-015 and WEB-017 produced zero-claim files under the knowledge-bearing source-scope rule.
 - Media extraction batch 001 created 48 atomic claims from VIDEO-001 through VIDEO-005 using only official Joey Yap YouTube videos with timestamped English (Original) automatic captions; see `qa/MEDIA_EXTRACTION_BATCH_001_REPORT.md` for caption limitations and case-specific ambiguities.
+- Media extraction batch 002 created 41 atomic claims from VIDEO-006 through VIDEO-010 using only official Joey Yap YouTube videos with timestamped English (Original) automatic captions; see `qa/MEDIA_EXTRACTION_BATCH_002_REPORT.md` for duplicate candidates, rejected promotional statements, and caption ambiguities.
 
 ## Next Task
 
